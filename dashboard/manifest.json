@@ -1,0 +1,8 @@
+{
+  "name": "hermes-spotter",
+  "label": "Spotter",
+  "description": "Short notes on what you might have missed in long agent turns",
+  "icon": "Lightbulb",
+  "version": "0.0.1",
+  "api": "plugin_api.py"
+}
